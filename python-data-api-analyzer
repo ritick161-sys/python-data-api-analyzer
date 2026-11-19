@@ -1,0 +1,6 @@
+python-data-api-analyzer/
+├── analyzer.py          # Main script: REST API fetch, cleaning, NumPy/Pandas analysis, plots & report
+├── requirements.txt     # Project dependencies
+├── README.md            # Documentation, setup, and sample output
+├── .gitignore           # Standard Python .gitignore
+└── output/              # Auto-generated charts (.png), cleaned CSV, and summary report (.md)
